@@ -31,8 +31,7 @@ to have the file that is being edited handy -if not in the same directory as the
 <tt>There are obviously plenty of built in tools and functions that could replicate this process with ease. However, this is a testing script, designed to learn from and
 use as a framework to add on to or customize. Next steps for development... I would like to add a built in translation feature as well some options to run with the script related to output and file type. Maybe add a feature where the script can determine what type of file is being edited and serve as a makeshift compiler when needed.</tt>
 <hr noshade>
-<tt>the idea for this project came about while cloning a template repository for github and needing to remove Chinese characters and replace them with the correct english characters without breaking syntax.</tt><br>
-<hr noshade>
+<tt>the idea for this project came about while cloning a template repository for github and needing to remove Chinese characters and replace them with the correct english characters without breaking syntax.</tt>
 ![inspiration](https://github.com/anthonymcwhite/QET-/blob/main/editing.png)
 
 <hr noshade>
