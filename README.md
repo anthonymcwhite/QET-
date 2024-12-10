@@ -1,8 +1,6 @@
 ##  <tt><b>QET</b></tt>
 <tt>a simple to use 'quick editing tool' written in Python. Scans text and replaces values with ease automatically updating and saving the file</tt>
 <hr noshade>
-![mainscreen]
-
 
 **a note for novice python users**
 **There are two ways of using this script... you can git clone repo and use the script from the terminal,
@@ -32,7 +30,9 @@ to have the file that is being edited handy -if not in the same directory as the
 use as a framework to add on to or customize. Next steps for development... I would like to add a built in translation feature as well some options to run with the script related to output and file type. Maybe add a feature where the script can determine what type of file is being edited and serve as a makeshift compiler when needed.</tt>
 
 <hr noshade>
-## <tt>the idea for this project came about while cloning a template repository for github and needing to remove Chinese characters and replace them with the correct english characters without breaking syntax.</tt>
+## <tt>the idea for this project came about while cloning a template repository for github and needing to remove Chinese characters and replace them with the correct english characters without breaking syntax.</tt><br>
 ![inspiration](https://github.com/anthonymcwhite/QET-/blob/main/editing.png)
+
+<hr noshade>
 
 <i>feel free to contribute or make suggestions. want to be a part of my projects? just send a message!</i>
