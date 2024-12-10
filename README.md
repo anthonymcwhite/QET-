@@ -1,4 +1,5 @@
-##  <tt><b>QET</b></tt>
+##  <tt><b>pyQET ~ the Python Quick Edit Tool</b></tt>
+<hr noshade>
 <tt>a simple to use 'quick editing tool' written in Python. Scans text and replaces values with ease automatically updating and saving the file</tt>
 <hr noshade>
 
@@ -14,7 +15,7 @@ to have the file that is being edited handy -if not in the same directory as the
 2. Initialize the script & when asked what file you are editing, enter the file name and make sure that it matches.
 ![step2](https://github.com/anthonymcwhite/QET-/blob/main/edittest.png)
 
-3. The script will ask what string you're replacing, this is where you select what you would like to find and replace within the document.
+3. The script will ask what string you're replacing, this is where you select what you would like to find and replace within the document.<br>
    **sometimes you must use 'ctrl + c' to move forward after selecting you .txt file**
 ![step 3](https://github.com/anthonymcwhite/QET-/blob/main/replace.png)
 
@@ -31,6 +32,7 @@ use as a framework to add on to or customize. Next steps for development... I wo
 
 <hr noshade>
 ## <tt>the idea for this project came about while cloning a template repository for github and needing to remove Chinese characters and replace them with the correct english characters without breaking syntax.</tt><br>
+
 ![inspiration](https://github.com/anthonymcwhite/QET-/blob/main/editing.png)
 
 <hr noshade>
